@@ -1,0 +1,4 @@
+.env.local
+.parcel-cache
+node_modules
+parckage-lock.json
